@@ -106,7 +106,7 @@ To propose changes, please review and follow the [CONTRIBUTING.md](CONTRIBUTING.
 
 ## License
 
-Licensed under the MIT License. See the [LICENSE](LICENSE) for more information.
+Licensed under the MIT License. See the [LICENSE](LICENSE.md) for more information.
 
 ## Contact
 
