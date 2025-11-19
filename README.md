@@ -111,7 +111,7 @@ Licensed under the MIT License. See the [LICENSE](LICENSE) for more information.
 ## Contact
 
 - **Maintainer:** [Almubarak96](https://github.com/Almubarak96)
-- **Email:** your.email@example.com
+- **Email:** almubaraksuleiman96@gmail.com
 
 ---
 
