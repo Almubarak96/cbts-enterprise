@@ -1,0 +1,17 @@
+# Keep these for building
+!pom.xml
+!src/
+!Dockerfile
+
+# Ignore these
+.git
+.gitignore
+.mvn
+mvnw
+mvnw.cmd
+HELP.md
+**/*.iml
+**/*.class
+**/node_modules/
+target/classes/
+target/generated-sources/

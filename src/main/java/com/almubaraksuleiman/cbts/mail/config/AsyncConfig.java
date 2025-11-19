@@ -1,0 +1,1 @@
+package com.almubaraksuleiman.cbts.mail.config;
