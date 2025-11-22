@@ -1,5 +1,13 @@
 # CBTS Enterprise
 
+[![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=flat&logo=java&logoColor=white)](https://java.com)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.1+-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io)
+[![Angular](https://img.shields.io/badge/Angular-15+-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=flat&logo=mysql&logoColor=white)](https://mysql.com)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Support](https://img.shields.io/badge/Support-Paystack-00B4B4)](https://paystack.shop/pay/pz8t31-07-)
+
 CBTS Enterprise is a robust, full-stack solution designed to modernize and streamline business operations. Featuring a scalable and secure Java backend, a performant Angular frontend, a reliable MySQL database, and Redis for real-time exam and timer features, this project sets a strong foundation for enterprise-grade CBT (Computer-Based Testing) and more.
 
 ## Table of Contents
