@@ -112,7 +112,7 @@ CBTS Enterprise is a robust, full-stack solution designed to modernize and strea
 If CBTS Enterprise helps your organization or learning journey, consider supporting its continued development and maintenance.
 
 ### Quick Online Support
-[![Support via Paystack](https://img.shields.io/badge/💸_Support_OpenSource-Paystack-00B4B4?style=for-the-badge)](https://paystack.com/pay/OpenSourceSupport)
+[![Support via Paystack](https://img.shields.io/badge/💸_Support_OpenSource-Paystack-00B4B4?style=for-the-badge)](https://paystack.shop/pay/pz8t31-07-)
 
 ### International Supporters Welcome!
 The payment page automatically shows local currency (USD, EUR, GBP) for international supporters.
@@ -127,7 +127,7 @@ Email **almubaraksuleiman96@gmail.com** for direct bank transfer details.
 - Security updates and maintenance
 - Support for educational institutions
 
-**Join the mission to make enterprise-grade software accessible to all!** 🚀
+**Join the mission to make enterprise-grade software accessible to all!** 
 
 ## Contributing
 
